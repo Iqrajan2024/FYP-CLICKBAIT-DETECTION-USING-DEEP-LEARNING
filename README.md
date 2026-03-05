@@ -24,7 +24,8 @@ In this repository, we have uploaded the samples of our articles headline and yo
 The text dataset contains:
 - Article headlines and their labels
 - contains almost 32,000 rows
-- We have taken this dataset that contains the headines of various articles, from an online source.
+- We have taken this dataset that contains the headines of various articles, from an online source
+  
 The youtube video dataset contains:
 - YouTube video ids
 - video title
