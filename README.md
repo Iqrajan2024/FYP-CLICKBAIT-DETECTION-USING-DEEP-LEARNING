@@ -8,7 +8,7 @@ The system combines:
 - Thumbnail image analysis (CNN)
 - Video metadata features
 
-In this repository, we have uploaded the samples of our articles headline and youtube videos datasets, since they are large in size and cannot be viewed. They are saved in the Datasets folder. The python scripts used to manually extract the attributes of the yputube videos and to label them through ruled-based labelling are also uploaded to the Video Data Collection Scripts folder. We have uploaded our Literature Review in the Literature Review folder, which can be downloaded from there.
+In this repository, we have uploaded the samples of our articles headline and youtube videos datasets, since they are large in size and cannot be viewed. They are saved in the Datasets folder. The python scripts used to manually extract the attributes of the youtube videos and label them through ruled-based labelling are also uploaded to the Video Data Collection Scripts folder. We have uploaded our Literature Review in the Literature Review folder, which can be downloaded from there.
 
 ## Research Objectives
 - Build a multimodal clickbait detection model
