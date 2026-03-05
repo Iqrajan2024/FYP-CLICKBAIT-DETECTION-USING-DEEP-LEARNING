@@ -15,12 +15,13 @@ The system combines:
 
 ## Current Progress
 - Literature review completed on clickbait detection 
-- Dataset collection in progress for youtube videos 
+- Dataset collection in progress for youtube videos (2000 rows created till now, our goal is 10,000)
 - YouTube API data collection scripts developed  
 
 ## Dataset
 The text dataset contains:
-- Article headlines and label
+- Article headlines and their labels
+- contains almost 32,000 rows
 The youtube video dataset contains:
 - YouTube video ids
 - video title
@@ -28,12 +29,13 @@ The youtube video dataset contains:
 - Thumbnails
 - Engagement metrics
 - Comments and tags
+- We have manually constructed the whole dataset. Collected youtube videos, extracted their attributes and auto-labelled them through a heuristic approach.
 
-## Next Steps
+## Next Steps (Future Work)
 - Data preprocessing
 - Feature engineering
-- BiLSTM text model
-- Multimodal deep learning model
+- BiLSTM text model implementation for headlines
+- Hybrid Multimodal deep learning model for videos
 - Browser extension development
 
 ## Tools
